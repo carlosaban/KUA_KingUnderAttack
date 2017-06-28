@@ -1,0 +1,17 @@
+C:\Workspaces\KUA\KUA.CONSOLE.UI\bin\Debug\KUA.CONSOLE.UI.exe.config
+C:\tempcar\VSProject\KUA\KUA.CONSOLE.UI\bin\Debug\KUA.CONSOLE.UI.exe.config
+C:\tempcar\VSProject\KUA\KUA.CONSOLE.UI\bin\Debug\KUA.CONSOLE.UI.exe
+C:\tempcar\VSProject\KUA\KUA.CONSOLE.UI\bin\Debug\KUA.CONSOLE.UI.pdb
+C:\tempcar\VSProject\KUA\KUA.CONSOLE.UI\bin\Debug\KUA.LOGIC.dll
+C:\tempcar\VSProject\KUA\KUA.CONSOLE.UI\bin\Debug\KUA.LOGIC.pdb
+C:\tempcar\VSProject\KUA\KUA.CONSOLE.UI\obj\Debug\KUA.CONSOLE.UI.csprojResolveAssemblyReference.cache
+C:\tempcar\VSProject\KUA\KUA.CONSOLE.UI\obj\Debug\KUA.CONSOLE.UI.exe
+C:\tempcar\VSProject\KUA\KUA.CONSOLE.UI\obj\Debug\KUA.CONSOLE.UI.pdb
+C:\Users\carlos.abanto\Downloads\KUA.Artefact.CarlosAbanto\KUA.Artefact\src\KUA\KUA.CONSOLE.UI\bin\Debug\KUA.CONSOLE.UI.exe.config
+C:\Users\carlos.abanto\Downloads\KUA.Artefact.CarlosAbanto\KUA.Artefact\src\KUA\KUA.CONSOLE.UI\bin\Debug\KUA.CONSOLE.UI.exe
+C:\Users\carlos.abanto\Downloads\KUA.Artefact.CarlosAbanto\KUA.Artefact\src\KUA\KUA.CONSOLE.UI\bin\Debug\KUA.CONSOLE.UI.pdb
+C:\Users\carlos.abanto\Downloads\KUA.Artefact.CarlosAbanto\KUA.Artefact\src\KUA\KUA.CONSOLE.UI\bin\Debug\KUA.LOGIC.dll
+C:\Users\carlos.abanto\Downloads\KUA.Artefact.CarlosAbanto\KUA.Artefact\src\KUA\KUA.CONSOLE.UI\bin\Debug\KUA.LOGIC.pdb
+C:\Users\carlos.abanto\Downloads\KUA.Artefact.CarlosAbanto\KUA.Artefact\src\KUA\KUA.CONSOLE.UI\obj\Debug\KUA.CONSOLE.UI.csprojResolveAssemblyReference.cache
+C:\Users\carlos.abanto\Downloads\KUA.Artefact.CarlosAbanto\KUA.Artefact\src\KUA\KUA.CONSOLE.UI\obj\Debug\KUA.CONSOLE.UI.exe
+C:\Users\carlos.abanto\Downloads\KUA.Artefact.CarlosAbanto\KUA.Artefact\src\KUA\KUA.CONSOLE.UI\obj\Debug\KUA.CONSOLE.UI.pdb

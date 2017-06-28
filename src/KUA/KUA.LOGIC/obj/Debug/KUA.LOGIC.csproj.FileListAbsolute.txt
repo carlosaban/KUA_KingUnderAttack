@@ -1,0 +1,9 @@
+C:\tempcar\VSProject\KUA\KUA.LOGIC\bin\Debug\KUA.LOGIC.dll
+C:\tempcar\VSProject\KUA\KUA.LOGIC\bin\Debug\KUA.LOGIC.pdb
+C:\tempcar\VSProject\KUA\KUA.LOGIC\obj\Debug\KUA.LOGIC.dll
+C:\tempcar\VSProject\KUA\KUA.LOGIC\obj\Debug\KUA.LOGIC.pdb
+C:\Users\carlos.abanto\Downloads\KUA.Artefact.CarlosAbanto\KUA.Artefact\src\KUA\KUA.LOGIC\bin\Debug\KUA.LOGIC.dll
+C:\Users\carlos.abanto\Downloads\KUA.Artefact.CarlosAbanto\KUA.Artefact\src\KUA\KUA.LOGIC\bin\Debug\KUA.LOGIC.pdb
+C:\Users\carlos.abanto\Downloads\KUA.Artefact.CarlosAbanto\KUA.Artefact\src\KUA\KUA.LOGIC\obj\Debug\KUA.LOGIC.dll
+C:\Users\carlos.abanto\Downloads\KUA.Artefact.CarlosAbanto\KUA.Artefact\src\KUA\KUA.LOGIC\obj\Debug\KUA.LOGIC.pdb
+C:\Users\carlos.abanto\Downloads\KUA.Artefact.CarlosAbanto\KUA.Artefact\src\KUA\KUA.LOGIC\obj\Debug\KUA.LOGIC.csprojResolveAssemblyReference.cache
