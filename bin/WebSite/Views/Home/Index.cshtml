@@ -1,0 +1,28 @@
+﻿@model KUA.Web.UI.Models.IndexViewModel
+@{
+    ViewBag.Title = "KUA Home Page";
+}
+
+
+
+<div  >
+    <h1>UPLOAD CHESS BOARDS</h1>@using (Html.BeginForm("Index", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <fieldset>
+            <input type="file" name="test" />
+            <p>
+                <input type="submit" value="Execute" />
+            </p>
+
+            
+
+            <table width="500">
+
+                <tr>
+
+                    <td width="100%">@Html.TextArea("OutPut", (Model != null) ? Model.Result : "", new { rows = "30", cols = "30" } )</td>
+                </tr>
+            </table>
+        </fieldset>
+    }
+</div>
